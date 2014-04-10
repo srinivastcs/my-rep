@@ -1,6 +1,6 @@
 my-rep
 ======
-
+// Hello
 &lt;apex:page controller="vfpagetogmailtosfdc" >   
 &lt;apex:form >   
 lastname&lt;apex:inputText value="{!nam}"/>&lt;br/>      
